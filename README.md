@@ -1,7 +1,7 @@
 # The first year of the Covid-19 pandemic through the lens of r/Coronavirus subreddit: An exploratory study
 
 # Introduction
-This repository contains the python notebooks that covers the complete life cycle for this exploratory study.
+This repository contains the python notebooks that covers the complete life cycle for this exploratory study (https://doi.org/10.21979/N9/0LGZYN).
 
 ## Index
 
