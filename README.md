@@ -23,6 +23,8 @@ The full dataset can be found at: https://doi.org/10.21979/N9/0LGZYN
 - Download the notebooks and the dataset
 - Open the notebooks with Jupyter Notebook or any other Python IDE
 
+## Development
+
 ### Development Environment
 The project is developed with Python 3.8.
 Required packages should be taken care of in the first cell of the notebooks. Otherwise, install them using pip.
@@ -40,4 +42,7 @@ Add a file structure here with the basic details about files, below is an exampl
 | 6  | masks | contains the word cloud masks
 
 ##  Gallery
-Pictures of your project.
+<img src="visualisations/wordcloud_sub_positive_WFLO.png">
+<img src="visualisations/wordcloud_sub_negative_WFLO.png">
+<img src="visualisations/wordcloud_com_upvote.png" width="500">
+<img src="visualisations/wordcloud_com_downvote.png" width="500">
