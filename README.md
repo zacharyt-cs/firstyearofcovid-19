@@ -42,6 +42,7 @@ Add a file structure here with the basic details about files, below is an exampl
 | 6  | masks | contains the word cloud masks
 
 ##  Gallery
+A sample of graphics that can be found in the paper and Python exploration notebooks.
 <img src="visualisations/wordcloud_sub_positive_WFLO.png">
 <img src="visualisations/wordcloud_sub_negative_WFLO.png">
 <img src="visualisations/wordcloud_com_upvote.png" width="500">
